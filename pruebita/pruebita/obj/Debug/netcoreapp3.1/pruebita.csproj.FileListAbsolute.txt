@@ -1,0 +1,13 @@
+C:\Users\Gastón\source\repos\pruebita\pruebita\bin\Debug\netcoreapp3.1\pruebita.exe
+C:\Users\Gastón\source\repos\pruebita\pruebita\bin\Debug\netcoreapp3.1\pruebita.deps.json
+C:\Users\Gastón\source\repos\pruebita\pruebita\bin\Debug\netcoreapp3.1\pruebita.runtimeconfig.json
+C:\Users\Gastón\source\repos\pruebita\pruebita\bin\Debug\netcoreapp3.1\pruebita.runtimeconfig.dev.json
+C:\Users\Gastón\source\repos\pruebita\pruebita\bin\Debug\netcoreapp3.1\pruebita.dll
+C:\Users\Gastón\source\repos\pruebita\pruebita\bin\Debug\netcoreapp3.1\pruebita.pdb
+C:\Users\Gastón\source\repos\pruebita\pruebita\obj\Debug\netcoreapp3.1\pruebita.csprojAssemblyReference.cache
+C:\Users\Gastón\source\repos\pruebita\pruebita\obj\Debug\netcoreapp3.1\pruebita.AssemblyInfoInputs.cache
+C:\Users\Gastón\source\repos\pruebita\pruebita\obj\Debug\netcoreapp3.1\pruebita.AssemblyInfo.cs
+C:\Users\Gastón\source\repos\pruebita\pruebita\obj\Debug\netcoreapp3.1\pruebita.csproj.CoreCompileInputs.cache
+C:\Users\Gastón\source\repos\pruebita\pruebita\obj\Debug\netcoreapp3.1\pruebita.dll
+C:\Users\Gastón\source\repos\pruebita\pruebita\obj\Debug\netcoreapp3.1\pruebita.pdb
+C:\Users\Gastón\source\repos\pruebita\pruebita\obj\Debug\netcoreapp3.1\pruebita.genruntimeconfig.cache

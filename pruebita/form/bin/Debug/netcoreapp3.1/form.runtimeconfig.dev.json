@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gastón\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gastón\\.nuget\\packages"
+    ]
+  }
+}
