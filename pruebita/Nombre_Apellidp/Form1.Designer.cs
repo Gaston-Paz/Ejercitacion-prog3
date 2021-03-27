@@ -96,6 +96,7 @@ namespace Nombre_Apellidp
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(377, 23);
             this.txtNombre.TabIndex = 5;
+            this.txtNombre.TextChanged += new System.EventHandler(this.txtNombre_TextChanged);
             // 
             // txtApellido
             // 
@@ -105,6 +106,7 @@ namespace Nombre_Apellidp
             this.txtApellido.Name = "txtApellido";
             this.txtApellido.Size = new System.Drawing.Size(377, 23);
             this.txtApellido.TabIndex = 6;
+            this.txtApellido.TextChanged += new System.EventHandler(this.txtApellido_TextChanged);
             // 
             // txtEdad
             // 
@@ -113,6 +115,7 @@ namespace Nombre_Apellidp
             this.txtEdad.Name = "txtEdad";
             this.txtEdad.Size = new System.Drawing.Size(89, 23);
             this.txtEdad.TabIndex = 7;
+            this.txtEdad.TextChanged += new System.EventHandler(this.txtEdad_TextChanged);
             this.txtEdad.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtEdad_KeyPress);
             // 
             // txtDireccion
@@ -123,6 +126,7 @@ namespace Nombre_Apellidp
             this.txtDireccion.Name = "txtDireccion";
             this.txtDireccion.Size = new System.Drawing.Size(377, 23);
             this.txtDireccion.TabIndex = 8;
+            this.txtDireccion.TextChanged += new System.EventHandler(this.txtDireccion_TextChanged);
             // 
             // txtResultado
             // 

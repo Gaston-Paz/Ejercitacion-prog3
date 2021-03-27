@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gastón\\source\\repos\\pruebita\\Nombre_Apellidp\\Nombre_Apellidp.csproj",
+      "projectUniqueName": "C:\\Users\\Gastón\\Documents\\GitHub\\Ejercitacion-prog3\\pruebita\\Nombre_Apellidp\\Nombre_Apellidp.csproj",
       "projectName": "Nombre_Apellidp",
-      "projectPath": "C:\\Users\\Gastón\\source\\repos\\pruebita\\Nombre_Apellidp\\Nombre_Apellidp.csproj",
+      "projectPath": "C:\\Users\\Gastón\\Documents\\GitHub\\Ejercitacion-prog3\\pruebita\\Nombre_Apellidp\\Nombre_Apellidp.csproj",
       "packagesPath": "C:\\Users\\Gastón\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gastón\\source\\repos\\pruebita\\Nombre_Apellidp\\obj\\",
+      "outputPath": "C:\\Users\\Gastón\\Documents\\GitHub\\Ejercitacion-prog3\\pruebita\\Nombre_Apellidp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gastón\\AppData\\Roaming\\NuGet\\NuGet.Config",

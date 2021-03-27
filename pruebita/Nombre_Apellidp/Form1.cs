@@ -49,7 +49,14 @@ namespace Nombre_Apellidp
             {
                 txtResultado.Text = "NOMBRE Y APELLIDO: " + txtNombre.Text + " " + txtApellido.Text;
                 txtResultado.Text = txtResultado.Text + "\r\n" + "EDAD: " + txtEdad.Text;
-                txtResultado.Text = txtResultado.Text + "\r\n" + "DIRECCION: " + txtDireccion.Text;
+                txtResultado.Text = txtResultado.Text + "\r\n" + "DIRECCION: " + txtDireccion.Text;}
+
+            else
+            {
+                if (txtApellido.Text.Length == 0){txtApellido.BackColor = Color.Red;}
+                if(txtNombre.Text.Length == 0) { txtNombre.BackColor = Color.Red;}
+                if (txtEdad.Text.Length == 0) { txtEdad.BackColor = Color.Red;}
+                if (txtDireccion.Text.Length == 0) { txtDireccion.BackColor = Color.Red;}
             }
         }
 
@@ -62,6 +69,26 @@ namespace Nombre_Apellidp
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+            txtNombre.BackColor = Color.White;
+        }
+
+        private void txtApellido_TextChanged(object sender, EventArgs e)
+        {
+            txtApellido.BackColor = Color.White;
+        }
+
+        private void txtEdad_TextChanged(object sender, EventArgs e)
+        {
+            txtEdad.BackColor = Color.White;
+        }
+
+        private void txtDireccion_TextChanged(object sender, EventArgs e)
+        {
+            txtDireccion.BackColor = Color.White;
         }
     }
 }
