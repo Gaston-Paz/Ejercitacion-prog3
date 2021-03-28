@@ -1,0 +1,14 @@
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.exe
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.deps.json
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.json
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.dev.json
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.Form1.resources
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.GenerateResource.cache
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfoInputs.cache
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfo.cs
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.genruntimeconfig.cache

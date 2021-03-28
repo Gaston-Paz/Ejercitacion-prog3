@@ -1,0 +1,15 @@
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.exe
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.deps.json
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.runtimeconfig.json
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.runtimeconfig.dev.json
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.dll
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.pdb
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.csprojAssemblyReference.cache
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.Form1.resources
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.AssemblyInfo.cs
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.dll
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.pdb
+C:\Users\Gastón\Documents\GitHub\Ejercitacion-prog3\pruebita\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.genruntimeconfig.cache
