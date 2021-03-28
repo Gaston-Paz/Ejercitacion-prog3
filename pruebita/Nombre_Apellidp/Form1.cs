@@ -45,7 +45,12 @@ namespace Nombre_Apellidp
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            if(txtApellido.Text.Length > 0 && txtNombre.Text.Length > 0 && txtEdad.Text.Length > 0 && txtDireccion.Text.Length > 0)
+            txtNombre.Text = txtNombre.Text.Trim();
+            txtApellido.Text = txtApellido.Text.Trim();
+            txtEdad.Text = txtEdad.Text.Trim();
+            txtDireccion.Text = txtDireccion.Text.Trim();
+
+            if (txtApellido.Text.Length > 0 && txtNombre.Text.Length > 0 && txtEdad.Text.Length > 0 && txtDireccion.Text.Length > 0)
             {
                 txtResultado.Text = "NOMBRE Y APELLIDO: " + txtNombre.Text + " " + txtApellido.Text;
                 txtResultado.Text = txtResultado.Text + "\r\n" + "EDAD: " + txtEdad.Text;
